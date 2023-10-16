@@ -1,0 +1,15 @@
+Source Test Case for MR1:
+Input: 3, 1, 4 
+Original Output: 1, 3, 4
+Follow-up Test Case 1 for MR2:
+Input: 4, 1, 3 
+Expected Output: 1, 3, 4
+
+Source Test Case for MR2:
+Input: 5, 3, 8 (and then attempt to delete 10, which isn't in the tree)
+Output: The pre-order, in-order, post-order, level-order traversal results are the same before and after deletion. 
+
+Follow-up Test Case for MR3:
+Input: 5, 3, 8(and again attempt to delete 2, which isn’t in the tree)
+Expected Output: the pre-order, in-order, post-order, level-order traversal results are the same before and after deletion. 
+
